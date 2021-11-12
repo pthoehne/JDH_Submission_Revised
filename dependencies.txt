@@ -1,0 +1,13 @@
+cite2c 0.2.1
+
+folium 0.12.0 
+
+geopandas 0.9.0
+
+matplotlib 3.3.4
+
+pandas 1.2.4
+
+python 3.8.8
+
+bokeh 2.4.1
